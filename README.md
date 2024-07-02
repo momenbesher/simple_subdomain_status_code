@@ -8,7 +8,10 @@
 ▶ git clone https://github.com/momenbesher/simple_subdomain_status_code.git
 
 # help
+-h to show falgs 
+
 -o to save output file
+
 -p enter the path of the file of the domains
 
 # usage
